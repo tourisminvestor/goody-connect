@@ -8,7 +8,7 @@
   "d1_databases": [{
     "binding": "DB",
     "database_name": "goody-connect-db",
-    "database_id": "00000000-0000-4000-8000-000000000000",
+    "database_id": "884a51d1-d195-4ad0-a3e1-5ccd8d329f27",
     "migrations_dir": "drizzle"
   }]
 }
